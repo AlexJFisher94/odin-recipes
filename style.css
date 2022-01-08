@@ -1,0 +1,37 @@
+h1 {
+    font-family: Georgia, sans-serif;
+    color: hsl(18, 11%, 31%);
+    font-size: 75px;
+    text-align: center;
+}
+
+body {
+    background-color: hsl(26, 4%, 65%);
+}
+
+a {
+    font-size: 40px;
+    font-family: Georgia, sans-serif;
+    color: hsl(24, 34%, 31%)
+}
+
+p {
+    font-family: Georgia;
+    font-size: 18px;
+}
+
+h2 {
+    font-family: Helvetica, sans-serif;
+}
+
+ul,
+ol {
+    font-size: 18px;
+    font-family: Georgia;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    border-radius: 5%;
+}
